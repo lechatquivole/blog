@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spicyflavor</title>
+    <link>https://blog-mu-henna-77.vercel.app/</link>
+    <description>Recent content on Spicyflavor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://blog-mu-henna-77.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading List</title>
+      <link>https://blog-mu-henna-77.vercel.app/readinglist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-mu-henna-77.vercel.app/readinglist/</guid>
+      <description>In progress  Le Coup du fou, Alessandro Barbaglia (2022)  Finished books 2023  Apologie de Socrate, Platon Un Amour de Swann, Marcel Proust  2022  Discours sur l&amp;rsquo;origine et les fondements de l&amp;rsquo;inégalité parmi les hommes, Rousseau Discours de la Méthode, Descartes  </description>
+    </item>
+    
+    <item>
+      <title>Title of the post</title>
+      <link>https://blog-mu-henna-77.vercel.app/posts/oui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-mu-henna-77.vercel.app/posts/oui/</guid>
+      <description>ok</description>
+    </item>
+    
+  </channel>
+</rss>
