@@ -34,3 +34,5 @@ weight = 1
 name = "Reading List"
 url = "/readinglist"
 weight = 3
+
+theme="archie"
